@@ -1,15 +1,15 @@
 object TStyleContainer
   object TStyleDescription
     StyleName = 'Description'
-    Author = 'Embarcadero Technologies Inc.'
+    Author = 'Alex Bassi'
     AuthorURL = 'www.embarcadero.com'
     PlatformTarget = '[SMALLSTYLE],[MSWINDOWS],[METROPOLISUI],[DEFINEFONTS]'
     MobilePlatform = False
-    Title = 'MetroBlue'
+    Title = 'MetroDarkBlue'
     Version = '1.0'
   end
   object TImage
-    StyleName = 'MetroBluestyle.png'
+    StyleName = 'MetroDarkBluestyle.png'
     MultiResBitmap = <
       item
         Width = 0
@@ -3889,7 +3889,7 @@ object TStyleContainer
     StyleName = 'backgroundstyle'
     Align = Contents
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Tile
     Width = 50.000000000000000000
     SourceLink = <
@@ -3925,7 +3925,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -4019,7 +4019,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -4110,7 +4110,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -4215,7 +4215,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -4290,7 +4290,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -4401,7 +4401,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -4488,7 +4488,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -4557,7 +4557,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -4676,7 +4676,7 @@ object TStyleContainer
         Align = Center
         Locked = True
         Height = 21.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         WrapMode = Center
         Width = 21.000000000000000000
         ActiveTrigger = Checked
@@ -4754,7 +4754,7 @@ object TStyleContainer
         Align = Center
         Locked = True
         Height = 23.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         WrapMode = Center
         Width = 23.000000000000000000
         ActiveTrigger = Checked
@@ -4880,7 +4880,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'scrollbarleftbutton'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -4929,7 +4929,7 @@ object TStyleContainer
     object TButtonStyleObject
       Align = Center
       Height = 13.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 11.000000000000000000
       HotLink = <
@@ -4965,7 +4965,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'scrollbarrightbutton'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -5014,7 +5014,7 @@ object TStyleContainer
     object TButtonStyleObject
       Align = Center
       Height = 13.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 11.000000000000000000
       HotLink = <
@@ -5050,7 +5050,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'scrollbartopbutton'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -5099,7 +5099,7 @@ object TStyleContainer
     object TButtonStyleObject
       Align = Center
       Height = 11.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 13.000000000000000000
       HotLink = <
@@ -5135,7 +5135,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'scrollbarbottombutton'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -5184,7 +5184,7 @@ object TStyleContainer
     object TButtonStyleObject
       Align = Center
       Height = 11.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 13.000000000000000000
       HotLink = <
@@ -5220,7 +5220,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'scrollbarhtrackstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -5244,7 +5244,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'scrollbarvtrackstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -5268,7 +5268,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'hthumbstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -5318,7 +5318,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'vthumbstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     HotLink = <
       item
@@ -5368,7 +5368,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'statusbarstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -5403,7 +5403,7 @@ object TStyleContainer
     object TStyleObject
       Align = Center
       Height = 13.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 13.000000000000000000
       SourceLink = <
@@ -5418,7 +5418,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'toolbarstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -5435,7 +5435,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'menubarstyle'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -5471,7 +5471,7 @@ object TStyleContainer
       Height = 50.000000000000000000
       Margins.Right = -8.000000000000000000
       Margins.Bottom = -8.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5512,7 +5512,7 @@ object TStyleContainer
       Align = Contents
       Height = 50.000000000000000000
       Opacity = 0.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5540,7 +5540,7 @@ object TStyleContainer
       Align = Contents
       Height = 50.000000000000000000
       Opacity = 0.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5713,7 +5713,7 @@ object TStyleContainer
       Align = Contents
       Height = 50.000000000000000000
       Opacity = 0.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5741,7 +5741,7 @@ object TStyleContainer
       Align = Contents
       Height = 50.000000000000000000
       Opacity = 0.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5928,7 +5928,7 @@ object TStyleContainer
     object TStyleObject
       Align = Top
       Height = 3.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -5954,7 +5954,7 @@ object TStyleContainer
       Align = Client
       Locked = True
       Height = 40.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Width = 46.000000000000000000
       SourceLink = <
@@ -6002,7 +6002,7 @@ object TStyleContainer
         Align = Center
         Locked = True
         Height = 17.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         WrapMode = Center
         Width = 17.000000000000000000
         ActiveTrigger = Checked
@@ -6075,7 +6075,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6098,7 +6098,7 @@ object TStyleContainer
         object TStyleObject
           StyleName = 'selection'
           Height = 50.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           Width = 50.000000000000000000
           SourceLink = <
             item
@@ -6304,7 +6304,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6348,7 +6348,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6450,7 +6450,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'selection'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6468,7 +6468,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'header'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6494,7 +6494,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'checkboxunchecked'
       Height = 17.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Visible = False
       Width = 17.000000000000000000
@@ -6509,7 +6509,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'checkboxchecked'
       Height = 17.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Visible = False
       Width = 17.000000000000000000
@@ -6524,7 +6524,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'button'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Visible = False
       Width = 50.000000000000000000
@@ -6543,7 +6543,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'buttonpressed'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Visible = False
       Width = 50.000000000000000000
@@ -6575,7 +6575,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'deletebutton'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Visible = False
       Width = 50.000000000000000000
       SourceLink = <
@@ -6593,7 +6593,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'deletebuttonpressed'
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Visible = False
       Width = 50.000000000000000000
       SourceLink = <
@@ -6690,7 +6690,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6713,7 +6713,7 @@ object TStyleContainer
         object TStyleObject
           StyleName = 'selection'
           Height = 50.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           Width = 50.000000000000000000
           SourceLink = <
             item
@@ -6910,7 +6910,7 @@ object TStyleContainer
     object TStyleObject
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -6935,7 +6935,7 @@ object TStyleContainer
       Align = Contents
       Locked = True
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Selected
       ActiveLink = <
@@ -7034,7 +7034,7 @@ object TStyleContainer
         Align = Contents
         Locked = True
         Height = 50.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         RotationAngle = 180.000000000000000000
         Width = 50.000000000000000000
         ActiveTrigger = Selected
@@ -7135,7 +7135,7 @@ object TStyleContainer
       Align = Contents
       Locked = True
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Selected
       ActiveLink = <
@@ -7246,7 +7246,7 @@ object TStyleContainer
         Align = Contents
         Locked = True
         Height = 50.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         RotationAngle = 180.000000000000000000
         Width = 50.000000000000000000
         ActiveTrigger = Selected
@@ -7358,7 +7358,7 @@ object TStyleContainer
       StyleName = 'htrack'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -7380,7 +7380,7 @@ object TStyleContainer
         Margins.Top = 1.000000000000000000
         Margins.Right = 1.000000000000000000
         Margins.Bottom = 1.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Position.X = 1.000000000000000000
         Position.Y = 1.000000000000000000
         Width = 50.000000000000000000
@@ -7402,7 +7402,7 @@ object TStyleContainer
       StyleName = 'vtrack'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -7424,7 +7424,7 @@ object TStyleContainer
         Margins.Top = 1.000000000000000000
         Margins.Right = 1.000000000000000000
         Margins.Bottom = 1.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Position.X = 1.000000000000000000
         Position.Y = -1.000000000000000000
         Width = 48.000000000000000000
@@ -7558,7 +7558,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -7656,7 +7656,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -7766,7 +7766,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -7811,7 +7811,7 @@ object TStyleContainer
       Align = VertCenter
       Locked = True
       Height = 11.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Position.Y = 19.000000000000000000
       Width = 50.000000000000000000
       SourceLink = <
@@ -7828,7 +7828,7 @@ object TStyleContainer
         Align = Left
         Locked = True
         Height = 11.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Width = 50.000000000000000000
         SourceLink = <
           item
@@ -7860,7 +7860,7 @@ object TStyleContainer
       Align = HorzCenter
       Locked = True
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Position.X = 19.000000000000000000
       Width = 11.000000000000000000
       SourceLink = <
@@ -7877,7 +7877,7 @@ object TStyleContainer
         Align = Top
         Locked = True
         Height = 50.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Width = 11.000000000000000000
         SourceLink = <
           item
@@ -7930,7 +7930,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'vthumbbarstyle'
     Height = 11.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Center
     Width = 11.000000000000000000
     HotLink = <
@@ -7966,7 +7966,7 @@ object TStyleContainer
   object TButtonStyleObject
     StyleName = 'hthumbbarstyle'
     Height = 11.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Center
     Width = 11.000000000000000000
     HotLink = <
@@ -8100,7 +8100,7 @@ object TStyleContainer
     TextBitmapEnOn = <>
     TextBitmapJp = <>
     TextBitmapJpOn = <>
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     FixedWidth = 55
     FixedHeight = 19
   end
@@ -8132,7 +8132,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       SourceLink = <
         item
@@ -8236,7 +8236,7 @@ object TStyleContainer
       Align = Contents
       Locked = True
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -8307,7 +8307,7 @@ object TStyleContainer
     Padding.Top = 2.000000000000000000
     Padding.Right = 2.000000000000000000
     Padding.Bottom = 2.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -8570,7 +8570,7 @@ object TStyleContainer
       Align = Center
       Height = 17.000000000000000000
       Opacity = 0.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 17.000000000000000000
       HotLink = <
@@ -8614,7 +8614,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Center
       Height = 17.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 17.000000000000000000
       HotLink = <
@@ -8663,7 +8663,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -8714,7 +8714,7 @@ object TStyleContainer
       StyleName = 'icon'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -8760,7 +8760,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -8786,7 +8786,7 @@ object TStyleContainer
         Align = Right
         Locked = True
         Height = 46.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Position.X = 28.000000000000000000
         Position.Y = 2.000000000000000000
         Width = 20.000000000000000000
@@ -8817,7 +8817,7 @@ object TStyleContainer
           StyleName = 'background'
           Align = Center
           Height = 11.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           WrapMode = Center
           Width = 13.000000000000000000
           ActiveTrigger = MouseOver
@@ -8874,7 +8874,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -8929,7 +8929,7 @@ object TStyleContainer
         object TStyleObject
           Align = Center
           Height = 11.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           WrapMode = Center
           Width = 13.000000000000000000
           SourceLink = <
@@ -8984,7 +8984,7 @@ object TStyleContainer
         object TStyleObject
           StyleName = 'selection'
           Height = 50.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           Width = 50.000000000000000000
           SourceLink = <
             item
@@ -9063,7 +9063,7 @@ object TStyleContainer
     StyleName = 'combopopupstyle'
     Align = Contents
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -9103,7 +9103,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       ActiveTrigger = Focused
       ActiveLink = <
@@ -9173,7 +9173,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -9228,7 +9228,7 @@ object TStyleContainer
       object TStyleObject
         Align = Center
         Height = 11.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         WrapMode = Center
         Width = 13.000000000000000000
         SourceLink = <
@@ -9435,7 +9435,7 @@ object TStyleContainer
         Align = Center
         Locked = True
         Height = 1617.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         WrapMode = Center
         Width = 1617.000000000000000000
         ActiveTrigger = Checked
@@ -9498,7 +9498,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'checkboxunchecked'
       Height = 17.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Visible = False
       Width = 17.000000000000000000
@@ -9513,7 +9513,7 @@ object TStyleContainer
     object TStyleObject
       StyleName = 'checkboxchecked'
       Height = 17.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Visible = False
       Width = 17.000000000000000000
@@ -9548,7 +9548,7 @@ object TStyleContainer
         Margins.Top = 1.000000000000000000
         Margins.Right = 1.000000000000000000
         Margins.Bottom = 1.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Position.X = 2.000000000000000000
         Position.Y = 2.000000000000000000
         Width = 50.000000000000000000
@@ -9574,7 +9574,7 @@ object TStyleContainer
         Margins.Top = 1.000000000000000000
         Margins.Right = 1.000000000000000000
         Margins.Bottom = 1.000000000000000000
-        SourceLookup = 'MetroBluestyle.png'
+        SourceLookup = 'MetroDarkBluestyle.png'
         Position.X = 2.000000000000000000
         Position.Y = -2.000000000000000000
         Width = 46.000000000000000000
@@ -9705,7 +9705,7 @@ object TStyleContainer
         object TStyleObject
           StyleName = 'selection'
           Height = 50.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           Width = 50.000000000000000000
           SourceLink = <
             item
@@ -9919,7 +9919,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -9992,7 +9992,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'flyoutpanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Tile
     Width = 50.000000000000000000
     SourceLink = <
@@ -10016,7 +10016,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Width = 50.000000000000000000
       HotLink = <
@@ -10147,7 +10147,7 @@ object TStyleContainer
       Padding.Top = 2.000000000000000000
       Padding.Right = 2.000000000000000000
       Padding.Bottom = 2.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Width = 50.000000000000000000
       SourceLink = <
@@ -10171,7 +10171,7 @@ object TStyleContainer
         object TStyleObject
           StyleName = 'selection'
           Height = 50.000000000000000000
-          SourceLookup = 'MetroBluestyle.png'
+          SourceLookup = 'MetroDarkBluestyle.png'
           WrapMode = Tile
           Width = 50.000000000000000000
           SourceLink = <
@@ -10369,7 +10369,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'grouppanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Tile
     Width = 50.000000000000000000
     SourceLink = <
@@ -10395,7 +10395,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10437,7 +10437,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10500,7 +10500,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10542,7 +10542,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10605,7 +10605,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10647,7 +10647,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10710,7 +10710,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10752,7 +10752,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10815,7 +10815,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10857,7 +10857,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10920,7 +10920,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -10962,7 +10962,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11025,7 +11025,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11067,7 +11067,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11130,7 +11130,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11172,7 +11172,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11235,7 +11235,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11277,7 +11277,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11340,7 +11340,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11382,7 +11382,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11445,7 +11445,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11487,7 +11487,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11550,7 +11550,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11592,7 +11592,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11655,7 +11655,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11697,7 +11697,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11760,7 +11760,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11802,7 +11802,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11865,7 +11865,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11907,7 +11907,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -11970,7 +11970,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12012,7 +12012,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12075,7 +12075,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12117,7 +12117,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12180,7 +12180,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12222,7 +12222,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12285,7 +12285,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12327,7 +12327,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12390,7 +12390,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12432,7 +12432,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12495,7 +12495,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12537,7 +12537,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12600,7 +12600,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12642,7 +12642,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12705,7 +12705,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12747,7 +12747,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12810,7 +12810,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12852,7 +12852,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12915,7 +12915,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -12957,7 +12957,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13020,7 +13020,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13062,7 +13062,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13125,7 +13125,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13167,7 +13167,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Client
       Height = 22.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13229,7 +13229,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -13298,7 +13298,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13377,7 +13377,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -13471,7 +13471,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -13569,7 +13569,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13630,7 +13630,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13691,7 +13691,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13752,7 +13752,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13813,7 +13813,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       Width = 50.000000000000000000
       HotLink = <
         item
@@ -13866,7 +13866,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'checkedpanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     WrapMode = Tile
     Width = 50.000000000000000000
     SourceLink = <
@@ -13884,7 +13884,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'flipviewpanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -13909,7 +13909,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -13970,7 +13970,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -14031,7 +14031,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -14092,7 +14092,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Center
       Width = 50.000000000000000000
       HotLink = <
@@ -14145,7 +14145,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'tooltippanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -14394,7 +14394,7 @@ object TStyleContainer
   object TStyleObject
     StyleName = 'gridpanel'
     Height = 50.000000000000000000
-    SourceLookup = 'MetroBluestyle.png'
+    SourceLookup = 'MetroDarkBluestyle.png'
     Width = 50.000000000000000000
     SourceLink = <
       item
@@ -14417,7 +14417,7 @@ object TStyleContainer
       StyleName = 'background'
       Align = Contents
       Height = 50.000000000000000000
-      SourceLookup = 'MetroBluestyle.png'
+      SourceLookup = 'MetroDarkBluestyle.png'
       WrapMode = Tile
       Width = 50.000000000000000000
       HotLink = <
